@@ -1,7 +1,5 @@
-# Intel-AI-Hackathon
+
 Team Name: THE 404error
-
-
 
 # Problem Statement
 Memory Optimisation in Android Phones using AI/ML.
